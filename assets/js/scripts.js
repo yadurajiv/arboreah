@@ -1,12 +1,1 @@
-document.addEventListener('DOMContentLoaded', function () {
-  var toggle = document.querySelector('.menu-toggle');
-  var navigation = document.querySelector('.site-navigation');
-
-  if (!toggle || !navigation) return;
-
-  toggle.addEventListener('click', function () {
-    var isOpen = toggle.getAttribute('aria-expanded') === 'true';
-    toggle.setAttribute('aria-expanded', String(!isOpen));
-    navigation.classList.toggle('is-open', !isOpen);
-  });
-});
+(function(){var nav=document.querySelector('.main-navigation');var button=document.querySelector('.menu-toggle');if(!nav||!button)return;button.addEventListener('click',function(){var open=nav.classList.toggle('is-open');button.setAttribute('aria-expanded',open?'true':'false')});})();
