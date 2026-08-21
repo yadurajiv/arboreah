@@ -180,7 +180,7 @@ Here is a film about the project which, was presented at the Serendipity Arts Fe
 
 My gratitude also goes to Karen Dias who worked on the story of Lakshmikutty Amma.
 
-<div class="responsive-embed"><div class="responsive-embed"><div class="post__iframe"><iframe src="https://www.youtube.com/embed/LI6xHduJ_nk" title="Embedded media" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div></div>
+<div class="responsive-embed"><div class="responsive-embed"><div class="post__iframe"><iframe src="https://www.youtube.com/embed/LI6xHduJ_nk" title="Embedded media" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div></div>
 
 &nbsp;
 
@@ -293,7 +293,7 @@ Put together by Pooja Sagar and Jeena Mary Chacko, and the student artists of Sr
 
 Here is a film on the Festival of Stories.
 
-<div class="responsive-embed"><div class="responsive-embed"><div class="post__iframe"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fartintransitproject%2Fvideos%2F1900627350172487%2F&amp;show_text=false&amp;width=1091" title="Embedded media" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div></div>
+<div class="responsive-embed"><div class="responsive-embed"><div class="post__iframe"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fartintransitproject%2Fvideos%2F1900627350172487%2F&amp;show_text=false&amp;width=1091" title="Embedded media" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div></div>
             ]]>
         </content>
     </entry>
